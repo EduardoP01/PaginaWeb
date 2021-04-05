@@ -1,0 +1,14 @@
+/*Comentario en CSS*/
+body{
+    /*Para encontrar mas colores podemos usar htmlcolorcodes.com*/
+    background-color:rgb(81, 157, 211);
+
+    /*color de texto:*/
+    color: white;
+
+    font-family: 'Courier New', Courier, monospace;
+    
+    /*Bordes de Pagina*/
+    padding-left: 5em;
+    padding-right: 5em;
+}
